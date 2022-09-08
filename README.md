@@ -1,2 +1,2 @@
-# Booststrap
-front end webdev with bootstrap
+# Bootstrap
+Front end webdev with bootstrap
